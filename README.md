@@ -34,3 +34,11 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+📄 License
+Released under the MIT License so you can use, modify, and distribute it in personal or commercial projects without restriction.
+
+📚 References
+KDNuggets article on hyperparameter tuning: https://www.kdnuggets.com/hyperparameter-tuning-gridsearchcv-and-randomizedsearchcv-explained
+
+scikit‑learn documentation for detailed estimator options.
