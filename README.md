@@ -1,5 +1,7 @@
 # 🔍 Machine Learning Model Comparison & Hyperparameter Tuning
 
+**Live Demo:** https://model-evaluation-ckizzkbf7hgdu745jfhvtg.streamlit.app/
+
 This Streamlit web application allows you to train and compare multiple machine learning classifiers with built-in hyperparameter tuning using `GridSearchCV` and `RandomizedSearchCV`. It simplifies the process of evaluating models across several performance metrics such as **accuracy**, **precision**, **recall**, and **F1-score**, and enables you to select the best model based on actual results.
 
 ### 🚀 Features
